@@ -1,7 +1,7 @@
 {
-  "name": "MeganTheeOperator",
+  "name": "PowVT",
   "website": "https://github.com/PowVT",
-  "description": "Powvt Thee Operator",
-  "logo": "https://avatars.githubusercontent.com/u/21206705?s=400&u=8e8c5cf41ae11e2b6a4937e4c8bb6dea2ca58fe0&v=4",
+  "description": "PowVT Thee Operator",
+  "logo": "https://raw.githubusercontent.com/PowVT/el-powvt-operator/main/pow_vt.png",
   "twitter": "https://x.com/pow_vt"
 }
